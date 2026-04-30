@@ -9,11 +9,18 @@ Professional jwt-decoder library.
 
 ## Installation
 ```bash
-# Install
+npm install jwt-decoder
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('jwt-decoder');
 ```
 
+## Testing
+```bash
+npm test
+```
+
+## License
+MIT
